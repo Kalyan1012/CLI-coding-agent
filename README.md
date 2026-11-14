@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Python%20Bug%20Fixer%20Agent&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Describe%20the%20bug%20in%20plain%20English.%20Watch%20an%20AI%20fix%20it.&descSize=18&descAlignY=58" alt="Python Bug Fixer Agent banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Python%20Bug%20Fixer%20Agent&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Describe%20the%20bug%20in%20plain%20English.%20Watch%20an%20AI%20fix%20it.&descSize=18&descAlignY=58" alt="Autonomous CLI Coding Agent banner" />
 
 <p>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python 3.11+"/></a>
